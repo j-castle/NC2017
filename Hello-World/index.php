@@ -5,8 +5,6 @@
         <title>Hello World!</title>
     </head>
     <body>
-        <?php
-        Print "Hello, World!";
-        ?>
+        Hello, World!
     </body>
 </html>
