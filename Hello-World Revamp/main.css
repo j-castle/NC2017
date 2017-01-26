@@ -1,0 +1,17 @@
+/* 
+    Created on : Jan 26, 2017, 2:42:48 PM
+    Author     : Jaden
+*/
+
+body {
+    background-color: greenyellow;
+}
+
+p{
+    border: 100px solid blue;
+    Float:right;
+}
+
+.blue{
+    color:blue;
+}
