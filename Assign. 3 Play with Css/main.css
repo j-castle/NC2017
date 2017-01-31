@@ -1,0 +1,75 @@
+/* 
+    Created on : Jan 26, 2017, 2:42:48 PM
+    Author     : Jaden
+*/
+
+body {
+    background-color: #ffffff;
+}
+
+p{
+    width: 626px;
+    height: 352px;
+    border: 1px solid black;
+    float:right;
+    background-repeat: no-repeat;
+    color: #ffffff;
+    border-radius:10px;
+    
+}
+
+.han{
+    background-image: url("han.jpg");
+    background-size:cover;
+    float:left;
+}
+
+.darth{
+    background-image: url("darth.jpg");
+    float:left;
+}
+
+.star{
+    background-image: url("star.jpeg");
+    background-size:contain;
+    width: 352px;
+    float:left;
+}
+
+.luke{
+    background-image: url("luke.jpg");
+    background-size:contain;
+    width: 342px;
+}
+
+.pic{
+    background-color: #ff0000;
+    float:right;
+    border: 2px solid black;
+    padding: 30px 30px 30px 30px;
+}
+
+.vader{
+    text-decoration: underline;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.hello{
+    float:right;
+    border: 2px solid black;
+    padding: 30px 30px 30px 30px;
+    background-color: orangered;
+    top:100px;
+    
+}
+
+.hello1{
+    float:left;
+    border: 2px solid black;
+    padding: 30px 30px 30px 30px;
+    background-color: orangered;
+    top:100px;
+    
+}
