@@ -1,0 +1,33 @@
+/* 
+    Created on : Mar 20, 2017, 6:27:27 PM
+    Author     : Jaden
+*/
+
+body{
+    background-color: whitesmoke;
+}
+
+h1{
+    width: 30%;
+    margin:auto;
+}
+
+h2{
+   width: 15%;
+   margin:auto; 
+}
+
+#list{
+    border: solid 2px black;
+    position:absolute;
+    padding: 2px 2px 2px 20px;
+    top:100px;
+    left: 40px;
+}
+
+#video{
+    position:relative;
+    top:200px;
+    width: 100%;
+    margin:auto;
+}
