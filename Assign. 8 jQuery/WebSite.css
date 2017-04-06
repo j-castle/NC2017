@@ -1,0 +1,55 @@
+/* 
+    Created on : Mar 20, 2017, 6:27:27 PM
+    Author     : Jaden
+*/
+
+body{
+    background-color: whitesmoke;
+    width:95%;
+}
+
+h1{
+    width: 30%;
+    margin:auto;
+}
+
+h2{
+   width: 15%;
+   margin:auto; 
+}
+
+#list{
+    border: solid 2px black;
+    position:absolute;
+    padding: 2px 2px 2px 20px;
+    top:100px;
+    left: 40px;
+}
+
+#video{
+    position:relative;
+    top:200px;
+    width: 100%;
+    margin:auto;
+}
+
+#flip {
+    padding: 5px;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+    position:relative;
+    top:200px;
+    margin:auto;
+    width:100%;
+}
+
+#tog{
+    background-color: #e5eecc;
+    text-align: center;
+    border: solid 1px #c3c3c3;
+    position:relative;
+    top:25px;
+    width: 16%;
+    right:-2.6%;
+}
